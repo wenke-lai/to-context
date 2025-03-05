@@ -23,3 +23,6 @@ Cargo.lock
 # Added by cargo
 
 /target
+
+# This Projects (for dev and debug)
+*.context.text
